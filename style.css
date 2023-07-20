@@ -1,34 +1,10 @@
-/* 
-css is for designing....???
 
-day 1 => basics, box model
-day 2 => css positions
-day 3 => css flexbox layouts food ordering webpage
-day 4 => css media queries and animations
-day 5 => social media website
-*/
-
-/* when we are selecting an html tag to apply c ss
-its know as selector */
-
-h1{
-    
-}
-/* class name it always starts with a dot
-so that it resembles the class name
-*/
 .title{
     color: red;
 }
 .text-center{
     text-align: center;
 }
-
-/* box model
-  border => thickness, style(solid, dotted, dashed), color
-  padding => 
-  margin
-*/
 
 .box{
     border: 1px solid lightgray;
